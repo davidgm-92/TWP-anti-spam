@@ -8,5 +8,5 @@ Note that the videos are not removed from any other sections or searching, just 
 
 ## Author
 
-- [@octokatherine](https://www.github.com/davidgm-92)
+- [@davidgm-92](https://www.github.com/davidgm-92)
 
