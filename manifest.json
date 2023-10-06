@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "The Wild Project anti-spam",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Removes The Wild Project's spam videos from your youtube feed",
 
   "icons": {
