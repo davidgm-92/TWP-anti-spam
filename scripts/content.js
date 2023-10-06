@@ -1,6 +1,8 @@
 var obs = new MutationObserver(function (mutations) {
-  const videoList = document.getElementsByTagName("ytd-grid-video-renderer");
-
+  const videoList = document.getElementsByClassName(
+    "style-scope ytd-rich-grid-row"
+  );
+  console.log(videoList);
   for (let i = 0; i < videoList.length; i++) {
     let hide = false;
     let author = videoList[i].querySelector(
